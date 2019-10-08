@@ -1,0 +1,9 @@
+.todo_list {
+  width: 100%;
+  background-color: white;
+  border: 1px solid #999;
+}
+
+.line {
+  text-decoration: line-through;
+}
